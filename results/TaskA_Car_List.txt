@@ -1,0 +1,29 @@
+List of Mercedes cars:
+	Car information:
+		Brand: Mercedes
+		Model: GLA SUV
+		Year of Manufacture: 2020
+		Color: white
+		Price: 37500 dollars
+		Registration number: 51F-997.85
+	Car information:
+		Brand: Mercedes
+		Model: A-Class Sedan
+		Year of Manufacture: 2022
+		Color: black
+		Price: 33950 dollars
+		Registration number: 15A-101.01
+	Car information:
+		Brand: Mercedes
+		Model: GLA SUV
+		Year of Manufacture: 2018
+		Color: black
+		Price: 38000 dollars
+		Registration number: 43A-117.88
+	Car information:
+		Brand: Mercedes
+		Model: GLA SUV
+		Year of Manufacture: 2023
+		Color: black
+		Price: 40000 dollars
+		Registration number: 67A-932.17

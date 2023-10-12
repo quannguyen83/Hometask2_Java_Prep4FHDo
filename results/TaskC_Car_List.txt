@@ -1,0 +1,15 @@
+List of cars made in 2020 have price which higher than 35000 dollars
+	Car information:
+		Brand: Mercedes
+		Model: GLA SUV
+		Year of Manufacture: 2020
+		Color: white
+		Price: 37500 dollars
+		Registration number: 51F-997.85
+	Car information:
+		Brand: Tesla
+		Model: Model X
+		Year of Manufacture: 2020
+		Color: black
+		Price: 68590 dollars
+		Registration number: 30H-433.67

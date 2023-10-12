@@ -1,0 +1,15 @@
+List of cars which their model are GLA SUV and have been use for more than 3 year
+	Car information:
+		Brand: Mercedes
+		Model: GLA SUV
+		Year of Manufacture: 2020
+		Color: white
+		Price: 37500 dollars
+		Registration number: 51F-997.85
+	Car information:
+		Brand: Mercedes
+		Model: GLA SUV
+		Year of Manufacture: 2018
+		Color: black
+		Price: 38000 dollars
+		Registration number: 43A-117.88
